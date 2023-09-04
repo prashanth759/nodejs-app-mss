@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://16.170.245.56:9980/repository/facebook-release/"
+    "registry": "http://16.170.245.56:9980/repository/nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
